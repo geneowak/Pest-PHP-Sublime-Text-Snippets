@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+beforeAll(function () {
+    //${1:...}
+});
+]]></content>
+  <tabTrigger>:pba</tabTrigger>
+  <scope>source.php</scope>
+  <description>Pest beforeAll()</description>
+</snippet>
+

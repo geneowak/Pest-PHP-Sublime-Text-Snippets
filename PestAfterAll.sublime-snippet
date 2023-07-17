@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+afterAll(function () {
+    //${1:...}
+});
+]]></content>
+  <tabTrigger>:paa</tabTrigger>
+  <scope>source.php</scope>
+  <description>Pest afterAll()</description>
+</snippet>
+

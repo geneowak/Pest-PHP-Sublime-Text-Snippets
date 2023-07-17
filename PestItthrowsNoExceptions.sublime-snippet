@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+it('${1:}', function () {
+ //expect(${2:})->
+ })->throwsNoExceptions();
+]]></content>
+  <tabTrigger>:pitnoex</tabTrigger>
+  <scope>source.php</scope>
+  <description>Pest it()->throwsNoExceptions()</description>
+</snippet>

@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+afterEach(function () {
+    //${1:...}
+});
+]]></content>
+  <tabTrigger>:pae</tabTrigger>
+  <scope>source.php</scope>
+  <description>Pest afterEach()</description>
+</snippet>
+

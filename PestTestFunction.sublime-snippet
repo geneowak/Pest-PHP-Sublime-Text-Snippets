@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+test('${1:}', function () {
+//expect(${2:})->
+});
+]]></content>
+  <tabTrigger>:pte</tabTrigger>
+  <scope>source.php</scope>
+  <description>Pest test()</description>
+</snippet>

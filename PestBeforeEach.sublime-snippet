@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+beforeEach(function () {
+    //${1:...}
+});
+]]></content>
+  <tabTrigger>:pbe</tabTrigger>
+  <scope>source.php</scope>
+  <description>Pest beforeEach()</description>
+</snippet>
+
