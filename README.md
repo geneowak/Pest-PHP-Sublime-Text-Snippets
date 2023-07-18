@@ -6,7 +6,7 @@ This package was inspired by the vs-code [pest-snippets package](https://github.
 
 ## Intro
 
-Pest Snippets is a compilation of code snippets for writing tests with [Pest PHP](https://pestphp.com/).
+Pest PHP Sublime Text Sublime Snippets is a compilation of code snippets for writing tests with [Pest PHP v2](https://pestphp.com/).
 
 Code snippets are templates for the codes you use most often.
 
