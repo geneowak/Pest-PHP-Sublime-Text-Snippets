@@ -4,7 +4,11 @@
 
 This package was inspired by the vs-code [pest-snippets package](https://github.com/dansysanalyst/pest-snippets)
 
-## Intro
+## Installation
+
+Use Sublime Text's [Package Control](https://packagecontrol.io/installation) to install this package.
+
+## About
 
 Pest PHP Sublime Text Sublime Snippets is a compilation of code snippets for writing tests with [Pest PHP v2](https://pestphp.com/).
 
@@ -12,7 +16,7 @@ Code snippets are templates for the codes you use most often.
 
 Using snippets allows you to write code faster, boosting your productivity, and preventing mistakes.
 
-⭐ Please consider starring the [GitHub repository](https://github.com/geneowak/Pest-PHP-Sublime-Text-Snippets) if you find this extension useful.
+⭐ Please consider starring the [GitHub repository](https://github.com/geneowak/Pest-PHP-Sublime-Text-Snippets) if you find this package useful.
 
 ## 🚀 Quick start
 
