@@ -1,0 +1,34 @@
+
+░▒█▀▀█░▒█▀▀▀░▒█▀▀▀█░▀▀█▀▀░░░▒█▀▀█░▒█░▒█░▒█▀▀█░░░▄░░░▄░█▀█░░░▒█▀▀▀█░▒█▄░▒█░▀█▀░▒█▀▀█░▒█▀▀█░▒█▀▀▀░▀▀█▀▀░▒█▀▀▀█
+░▒█▄▄█░▒█▀▀▀░░▀▀▀▄▄░░▒█░░░░░▒█▄▄█░▒█▀▀█░▒█▄▄█░░░░█▄█░░▒▄▀░░░░▀▀▀▄▄░▒█▒█▒█░▒█░░▒█▄▄█░▒█▄▄█░▒█▀▀▀░░▒█░░░░▀▀▀▄▄
+░▒█░░░░▒█▄▄▄░▒█▄▄▄█░░▒█░░░░░▒█░░░░▒█░▒█░▒█░░░░░░░░▀░░░█▄▄░░░▒█▄▄▄█░▒█░░▀█░▄█▄░▒█░░░░▒█░░░░▒█▄▄▄░░▒█░░░▒█▄▄▄█
+
+
+[Install message] Thanks for installing Pest PHP v2 Snippets
+
+## About
+
+Pest PHP Sublime Text Sublime Snippets is a compilation of code snippets for writing tests with [Pest PHP v2](https://pestphp.com/).
+
+Code snippets are templates for the codes you use most often.
+
+Using snippets allows you to write code faster, boosting your productivity, and preventing mistakes.
+
+⭐ Please consider starring the [GitHub repository](https://github.com/geneowak/Pest-PHP-Sublime-Text-Snippets) if you find this package useful.
+
+## 🚀 Quick start
+
+Just type `:p` to get a list of all code snippets.
+
+Additionally, you can type:
+
+- `:pte` to access all `test()` snippets.
+
+- `:pti` to access all `it()` snippets.
+
+- `:pex` to access the available `expect()` methods.
+
+## 🗒️ Code Snippet List
+
+For a full list of the all snippets, please view the README.md file in the github repository (https://github.com/geneowak/Pest-PHP-Sublime-Text-Snippets/#readme)
+
