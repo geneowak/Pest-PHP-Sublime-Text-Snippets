@@ -18,17 +18,17 @@ Using snippets allows you to write code faster, boosting your productivity, and 
 
 ## 🚀 Quick start
 
-Just type `:p` to get a list of all code snippets.
+Just type :p to get a list of all code snippets.
 
 Additionally, you can type:
 
-- `:pte` to access all `test()` snippets.
+- :pte to access all test() snippets.
 
-- `:pti` to access all `it()` snippets.
+- :pti to access all it() snippets.
 
-- `:pex` to access the available `expect()` methods.
+- :pex to access the available expect() methods.
 
 ## 🗒️ Code Snippet List
 
-For a full list of the all snippets, please view the README.md file in the github repository (https://github.com/geneowak/Pest-PHP-Sublime-Text-Snippets/#readme)
+For a full list of the all snippets, please view the README.md file in the GitHub repository (https://github.com/geneowak/Pest-PHP-Sublime-Text-Snippets/#readme)
 
